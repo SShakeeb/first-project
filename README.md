@@ -1,0 +1,2 @@
+# first-project
+energy calculator
